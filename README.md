@@ -6,7 +6,7 @@
  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Innnoa&theme=shadow_blue&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Innnoa&theme=shadow_blue&include_all_commits=true&show_icons=true&hide_border=true&hide_rank=true" />
  
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Innnoa&theme=shadow-blue&hide_border=%E7%9C%9F&locale=zh_Hans&short_numbers=%E5%81%87&hide_border=true" />
