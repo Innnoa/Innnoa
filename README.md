@@ -6,6 +6,7 @@
 
 
 <p align="center">
+<figure><embed src="https://wakatime.com/share/@9cc86f75-abf3-447d-bd8b-7081b468b11b/9a2c66a2-f484-44a3-8074-501e1f871969.svg"></embed></figure>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <!--<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Innnoa&theme=shadow_blue&include_all_commits=true&show_icons=true&hide_border=true&hide_rank=true" /> 
