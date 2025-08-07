@@ -6,14 +6,7 @@
 
 
 <p align="center">
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@9cc86f75-abf3-447d-bd8b-7081b468b11b/e04b75e4-0852-48ef-a7ce-7fc60c6246bf.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9cc86f75-abf3-447d-bd8b-7081b468b11b/3c823567-d124-4fe4-83ea-ab4a69afd676.png" /></a>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <!--<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Innnoa&theme=shadow_blue&include_all_commits=true&show_icons=true&hide_border=true&hide_rank=true" /> 
