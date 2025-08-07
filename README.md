@@ -2,7 +2,7 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=34&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=No+talent%2C+no+virtue;Pecteilis+radiata;J.Y;destiny+that+ties+people+together" alt="Typing SVG" /></a>
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9cc86f75-abf3-447d-bd8b-7081b468b11b/3c823567-d124-4fe4-83ea-ab4a69afd676.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9cc86f75-abf3-447d-bd8b-7081b468b11b/eace4fbb-4421-42fa-9fec-97ff2f2865ac.png" /></a>
 </p>
 
 
