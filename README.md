@@ -5,7 +5,8 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9cc86f75-abf3-447d-bd8b-7081b468b11b/eace4fbb-4421-42fa-9fec-97ff2f2865ac.png" /></a>
 </p>
 
-
+.. image:: https://wakatime.com/share/@9cc86f75-abf3-447d-bd8b-7081b468b11b/eace4fbb-4421-42fa-9fec-97ff2f2865ac.png
+    :target: https://wakatime.com/
 <p align="center">
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
