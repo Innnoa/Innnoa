@@ -15,7 +15,7 @@
 <br/>
  
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Innnoa&theme=tokyo-night&hide_border=true&area=true">
+<!-- <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Innnoa&theme=tokyo-night&hide_border=true&area=true">
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--
