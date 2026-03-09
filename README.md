@@ -24,7 +24,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=cpp,md,linux,qt,cmake,stackoverflow&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=cpp,md,cmake&theme=light" />
 </p>
  
 <!-- https://github.com/badges/shields -->
