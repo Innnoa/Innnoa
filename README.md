@@ -3,7 +3,8 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9cc86f75-abf3-447d-bd8b-7081b468b11b/eace4fbb-4421-42fa-9fec-97ff2f2865ac.png" /></a>
 </p>
 
-<img align="center" src="https://skillicons.dev/icons?i=cpp,arch,linux,md,neovim,obsidian,cmake&theme=light" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,arch,linux,md,neovim,obsidian,cmake&theme=light" />
 </p>
 
 <p align="center">
